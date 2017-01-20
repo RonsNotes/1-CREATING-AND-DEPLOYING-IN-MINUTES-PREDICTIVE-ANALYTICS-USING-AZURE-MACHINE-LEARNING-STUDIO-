@@ -1,1 +1,1 @@
-# 1-CREATING-AND-DEPLOYING-IN-MINUTES-PREDICTIVE-ANALYTICS-USING-AZURE-MACHINE-LEARNING-STUDIO-
+# Creating-and-Deploying-in-Minutes-Predictive-Analytics-Using-Azure-Machine-Learning-Studio
